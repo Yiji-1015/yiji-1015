@@ -6,8 +6,8 @@
 취미는 그림그리기 웹툰보기 음악감상 일렉기타 복싱 게임 기타 등등 입니다.<br>
 잘 부탁합니다
 
-python```
-할 줄 아는 것은 파이썬 원툴입니다
+```
+할 줄 아는 것은 파이썬과 파이썬입니다.
 ```
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Yiji-1015)
