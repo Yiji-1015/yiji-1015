@@ -13,9 +13,6 @@
 
 ![sparkle banner](https://github.com/yourusername/yourrepo/blob/main/sparkle-banner.gif?raw=true)
 
-
-HTML CSS JSResult Skip Results Iframe
-EDIT ON
 <!--
 confetti
 Copyright (c) 2023 by Wakana Y.K. (https://codepen.io/wakana-k/pen/gOqqWdY)
