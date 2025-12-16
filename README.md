@@ -10,6 +10,7 @@
 할 줄 아는 것은 파이썬과 파이썬입니다.
 ```
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Yiji-1015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yiji-yoon/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
