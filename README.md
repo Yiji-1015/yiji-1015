@@ -9,7 +9,14 @@
 잘 부탁합니다
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yiji-yoon/)
-[![Notion](https://img.shields.io/badge/Notion-View-black?style=for-the-badge&logo=notion)](https://spangled-letter-01a.notion.site/2cb143d6edc880d4ae88d3ada994ff1e)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yiji-yoon/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://spangled-letter-01a.notion.site/2cb143d6edc880d4ae88d3ada994ff1e">
+    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion" />
+  </a>
+</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
