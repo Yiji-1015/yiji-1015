@@ -11,16 +11,17 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yiji-yoon/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"
+      style="margin-right: 12px;"
+    />
   </a>
-  
-  &nbsp;&nbsp;
-  
   <a href="https://spangled-letter-01a.notion.site/2cb143d6edc880d4ae88d3ada994ff1e">
-    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" />
+    <img
+      src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black"
+    />
   </a>
 </p>
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
