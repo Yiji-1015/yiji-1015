@@ -16,7 +16,7 @@
       style="margin-right: 12px;"
     />
   </a>
-  <a href="https://spangled-letter-01a.notion.site/2cb143d6edc8803e93e0fe412b2ecdfb">
+  <a href="https://spangled-letter-01a.notion.site/2cb143d6edc8803e93e0fe412b2ecdfb11">
     <img
       src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black"
     />
