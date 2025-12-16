@@ -8,8 +8,7 @@
 취미는 그림그리기 웹툰보기 음악감상 일렉기타 복싱 게임 기타 등등 입니다.
 잘 부탁합니다
 ```
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yiji-yoon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
