@@ -10,6 +10,6 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yiji-yoon/)
-
+[![Notion](https://img.shields.io/badge/Notion-View-black?style=for-the-badge&logo=notion)](https://spangled-letter-01a.notion.site/2cb143d6edc880d4ae88d3ada994ff1e)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
