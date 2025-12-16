@@ -8,14 +8,19 @@
 취미는 그림그리기 웹툰보기 음악감상 일렉기타 복싱 게임 기타 등등 입니다.
 잘 부탁합니다
 ```
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yiji-yoon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  
+  &nbsp;&nbsp;
+  
   <a href="https://spangled-letter-01a.notion.site/2cb143d6edc880d4ae88d3ada994ff1e">
-    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion" />
+    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
 </p>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
