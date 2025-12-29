@@ -53,6 +53,6 @@ RAG, 머신러닝, 오픈소스 활용 등을 개인 학습 목적으로 자유�
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
