@@ -43,6 +43,9 @@ Oracle 기반 데이터 처리와 지오코딩/역지오코딩을 통해 Folium 
 RAG, 머신러닝, 오픈소스 활용 등을 개인 학습 목적으로 자유롭게 실험한 코드와 데모를 모아둔 레포지토리입니다.  
 기능 단위 구현과 아이디어 검증을 중심으로 구성했습니다.
 
+
+논문 및 발표자료 다운로드: [구글 드라이브 링크](https://drive.google.com/drive/folders/1-DIflc9oZBaRDINQ2awTJohSleC-OoKG?usp=sharing)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yiji-yoon/">
     <img
