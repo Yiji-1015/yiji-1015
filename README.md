@@ -24,6 +24,6 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yiji-1015&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=①아이디&show_icons=true&theme=②스타일)
 
 
